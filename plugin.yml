@@ -1,0 +1,10 @@
+name: InviteRewards
+main: phuongaz\inviterewards\InviteRewards
+version: 0.0.1
+api: 5.0.0
+src-namespace-prefix: phuongaz\inviterewards
+
+permissions:
+    inviterewards.command:
+        default: true
+        description: Allows the player to use /inviterewards command
